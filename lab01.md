@@ -145,7 +145,7 @@ Private Subnet은 **10.0.1.0/24** 의 CIDR을 가지고 있으며, 이는 **10.0
 
 30. **Inbound rules** 세션에서 <span style="background-color:white; font-weight:bold; font-size:90%; color:#545b64; position:relative; top:-1px; border-color:#545b64; border-radius:2px; border-width:1px; border-style:solid; padding-top:3px; padding-bottom:3px; padding-left:10px; padding-right:10px;">Add rule</span> 을 클릭하고 다음을 구성합니다:  
    - **Type:** _HTTP_
-   - **Source:** _Anywhere_
+   - **Source:** _Anywhere-IPv4_
    - **Description:** `Permit web requests`
 
 31. 화면 맨 아래에 <span style="background-color:#ec7211; font-weight:bold; font-size:90%; color:white; position:relative; top:-1px; padding-top:3px; padding-bottom:3px; padding-left:10px; padding-right:10px;white-space: nowrap">Create security group</span> 버튼을 클릭합니다.
