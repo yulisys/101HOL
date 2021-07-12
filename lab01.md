@@ -26,6 +26,13 @@
 
 
 ---------------------------------------
+## 사전작업
+이 작업은 **Elastic IP**를 설정합니다.
+1. **AWS Management Console**의 <span style="background-color:#232f3e; font-weight:bold; font-size:90%; color:white; position:relative; top:-1px; padding-top:3px; padding-bottom:3px; padding-left:10px; padding-right:10px;"> Services <i class="fas fa-angle-down"></i></span> 메뉴에서 **EC2** 를 클릭합니다.
+
+2. 좌측 패널에서 **Network & Security**아래 **Elastic IPs**를 클릭합니다.
+3. 우측 상단의 **Allocate Elastic IP address**를 클릭합니다.
+4. 아래에 있는 **Allocate** 버튼을 클릭합니다.
 
 ## 과제 1: VPC 생성
 이 작업에서는 VPC 마법사를 사용하여 VPC 인터넷 게이트웨이와 단일 가용영역에 두 개의 서브넷을 생성하십시오. **Internet Gateway(IGW)** 는 VPC와 인터넷 인스턴스간의 통신을 허용하는 VPC 구성 요소입니다.
