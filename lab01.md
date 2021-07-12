@@ -241,4 +241,4 @@ AWS 로고 및 인스턴스 메타데이터 값을 표시하는 웹 페이지가
 
 ## 실습 완료
 
-<i class="icon-flag-checkered"></i> 축하합니다! 성공적으로 VPC를 생성하고 생성한 VPC에서 EC2 인스턴스를 시작했습니다. 다음을 수행하여 실습 환경을 정리하십시오.
+<i class="icon-flag-checkered"></i> 축하합니다! 성공적으로 VPC를 생성하고 생성한 VPC에서 EC2 인스턴스를 시작했습니다. 
